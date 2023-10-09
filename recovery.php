@@ -1,8 +1,8 @@
 <?php
 //connexion à la base de données
-$host = 'localhost';
+$host = 'github';
 $dbname = 'RECOVERY';
-$username = 'root';
+$username = 'git';
 $password = '';
 
 try {
